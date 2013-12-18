@@ -5,7 +5,6 @@ C2Call iOS7 SDK V1.0.0 B22 now available
 =======
 
 C2Call Social Communication SDK V 1.0.0 Release Notes
-=======
 
 New Features:
 - Personal Status Message for users (SCUserStatusController / SCEditStatusController).
