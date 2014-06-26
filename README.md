@@ -1,7 +1,7 @@
 iOS-SDK
 =======
 
-C2Call iOS7 SDK V1.0.0 B22 now available
+C2Call iOS7 SDK SDK V 1.1.1 now available
 =======
 
 C2Call Social Communication SDK V 1.1.1 Release Notes
